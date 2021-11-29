@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Travel-website-react/static/css/main.764532c8.chunk.css",
-    "main.js": "/Travel-website-react/static/js/main.db1e257d.chunk.js",
-    "main.js.map": "/Travel-website-react/static/js/main.db1e257d.chunk.js.map",
-    "runtime-main.js": "/Travel-website-react/static/js/runtime-main.aee0800a.js",
-    "runtime-main.js.map": "/Travel-website-react/static/js/runtime-main.aee0800a.js.map",
-    "static/js/2.b970870a.chunk.js": "/Travel-website-react/static/js/2.b970870a.chunk.js",
-    "static/js/2.b970870a.chunk.js.map": "/Travel-website-react/static/js/2.b970870a.chunk.js.map",
-    "index.html": "/Travel-website-react/index.html",
-    "static/css/main.764532c8.chunk.css.map": "/Travel-website-react/static/css/main.764532c8.chunk.css.map",
-    "static/js/2.b970870a.chunk.js.LICENSE.txt": "/Travel-website-react/static/js/2.b970870a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Travel-website-react/static/media/img-8.fabdf94d.jpg",
-    "static/media/video-1.59e75226.mp4": "/Travel-website-react/static/media/video-1.59e75226.mp4"
+    "main.css": "/static/css/main.26009f06.chunk.css",
+    "main.js": "/static/js/main.db1e257d.chunk.js",
+    "main.js.map": "/static/js/main.db1e257d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.07ab82bb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.07ab82bb.js.map",
+    "static/js/2.b970870a.chunk.js": "/static/js/2.b970870a.chunk.js",
+    "static/js/2.b970870a.chunk.js.map": "/static/js/2.b970870a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.26009f06.chunk.css.map": "/static/css/main.26009f06.chunk.css.map",
+    "static/js/2.b970870a.chunk.js.LICENSE.txt": "/static/js/2.b970870a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/img-8.fabdf94d.jpg",
+    "static/media/video-1.59e75226.mp4": "/static/media/video-1.59e75226.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.aee0800a.js",
+    "static/js/runtime-main.07ab82bb.js",
     "static/js/2.b970870a.chunk.js",
-    "static/css/main.764532c8.chunk.css",
+    "static/css/main.26009f06.chunk.css",
     "static/js/main.db1e257d.chunk.js"
   ]
 }
